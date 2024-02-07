@@ -27,7 +27,7 @@ src/dataloader_old.py
 /exp
 /exp_midi
 /data
-/inpainting_ouput
+/inpainting_output
 egs/vggsound/run_cavmae_ft_internal.sh
 src/dataloader_audio_only.py
 src/gen_audio_embedding.py
@@ -39,6 +39,6 @@ egs/vggsound/run_cavmae_ft_audioonly_internal.sh
 /wandb
 /logs
 /egs
-/inpainting_ouput
+inpainting_output
 /midi
 __pycache__/

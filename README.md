@@ -1,6 +1,6 @@
-# For ODL 
-running inpainting experiments are in ./src/inpaint.py
-you would need a model pretrained weight with no norm_pix_loss
+# CAVMMAE- A Music Model
+Running inpainting experiments are in ./src/inpaint.py
+You would need a model pretrained weight with no norm_pix_loss
 
 For loss values for individual modalities, you would need to train the model on Audioset and Cocochorals
 All training scripts are in ./egs/audioset_midi
